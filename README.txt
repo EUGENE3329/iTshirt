@@ -1,6 +1,7 @@
 
 
-
+phone-oct, ver4
+open free, chance
 
 =====================
 phone-cat, ver3
