@@ -1,4 +1,6 @@
-
+two_view, ver5
+윈도우에서 작업 중,
+차후에 vmware에서도 해 볼 예정 임.
 
 phone-oct, ver4
 open free, chance
